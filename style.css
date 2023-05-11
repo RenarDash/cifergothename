@@ -1,0 +1,26 @@
+.MymeNu{
+    position: sticky;
+    top: 0;
+    z-index: 99;
+}
+.traveldiv {
+    border: 1px solid gray;
+}
+.traveldiv img {
+    width: 90%;
+    margin: 10px;
+    border-radius: 20px;
+}
+#headi {
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5%;
+}
+.movie_head{
+    padding: 10px;
+    border-radius: 10px;
+text-align: left;
+}
+.movie_head i{
+    float: right;
+}
